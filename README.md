@@ -10,6 +10,7 @@ Skills:
     Numpy
     Pandas
     Web Scrapping
+    BeautifulSoup
     
 ## Data Analysis:
 
