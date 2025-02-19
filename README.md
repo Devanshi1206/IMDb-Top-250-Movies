@@ -12,7 +12,7 @@ The goal is to extract relevant data from the IMDb website for further analysis.
 ## Methodology:
 
 1. Import useful Python libraries.
-2. Get responses code - Succesfull Reposnse varies in range 200-299.
+2. Get HTTP responses code - Succesfull Reposnse varies in range 200-299.
 3. Use BeautifulSoup to scrape all website data.
 4. Scrape useful parts and add them to a list or database accordingly.
 5. Save the database to a CSV or Excel file.
