@@ -12,7 +12,7 @@ The goal is to extract relevant data from the IMDb website for further analysis.
 ## Methodology:
 
 1. Import useful Python libraries.
-2. Get HTTP responses code - Succesfull Reposnse varies in range 200-299.
+2. Get HTTP response code - Successful Response varies in the range of 200-299.
 3. Use BeautifulSoup to scrape all website data.
 4. Scrape useful parts and add them to a list or database accordingly.
 5. Save the database to a CSV or Excel file.
@@ -34,7 +34,7 @@ Successfully extracted and stored the data.
 
 ## Next Steps:
 
-1. Can add timer to the code to automatically run the code after a fixed time on server.
+1. Can add a timer to the code to automatically run the code after a fixed time on the server.
 
 
 I have used the web scrapping method to make a CSV file of the top 250 movies according to IMDb.
